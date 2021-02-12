@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: csjgamingtv status page
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://cstate.mnts.lt
+baseURL: https://status.csjgaming.com
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -134,8 +134,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
+    - name: Website
+      category: UK Servers
     - name: Backup Gateway
       category: East Coast
     - name: API
